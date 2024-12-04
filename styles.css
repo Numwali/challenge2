@@ -83,6 +83,8 @@ body {
 
 .interests {
  margin-top: 20px;
+ justify-content: left;
+ align-items:center;
 }
 
 .interests .tags span {
@@ -99,7 +101,6 @@ body {
  color:black;
  width:20%;
  height:40%;
- font-size: x-small;
 }
 
 /* Main Content */
